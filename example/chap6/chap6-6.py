@@ -1,4 +1,3 @@
-# D:\\pythontest\\祝福你中华.txt
 def readLRC(filename):
     with open(filename,'r') as f:
         res={}
